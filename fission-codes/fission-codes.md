@@ -344,7 +344,7 @@ Among other things, the meta code `0xFF` may be used to describe what the off-ch
 |-----------------|:------------------------------|
 | `0xF0`          | Off-Chain Failure             |
 | `0xF1`          | Off-Chain Success             |
-| `0xF2`          | Off-Chain Process Stared      |
+| `0xF2`          | Off-Chain Process Started      |
 | `0xF3`          | Awaiting Off-Chain Completion |
 | `0xF4`          | Off-Chain Action Required     |
 | `0xF5`          | Off-Chain Service Unavailable |
